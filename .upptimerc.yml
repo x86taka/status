@@ -29,9 +29,6 @@ status-website:
 
 robotsText: "User-agent: * \n Disallow: /"
 
-commitMessages:
-  commitAuthorName: "Upptime Bot"
-  commitAuthorEmail: "19627440+x86taka@users.noreply.github.com"
 
 runner: [self-hosted]
 
